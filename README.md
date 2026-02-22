@@ -68,9 +68,9 @@
 
 在新版本的astrbot中，需要在 **插件市场** 配置插件源，源地址格式：
 
-`https://<App名称>.<组织别名>.deno.net/https://github.com/AstrBotDevs/AstrBot_Plugins_Collection/raw/refs/heads/main/plugins.json`
+`https://<App名称>.<组织别名>.deno.net/https://raw.githubusercontent.com/AstrBotDevs/AstrBot_Plugins_Collection/refs/heads/main/plugins.json`
 
-> `https://github.com/AstrBotDevs/AstrBot_Plugins_Collection/raw/refs/heads/main/plugins.json`是官方仓库提供的插件列表。
+> `https://raw.githubusercontent.com/AstrBotDevs/AstrBot_Plugins_Collection/refs/heads/main/plugins.json`是官方仓库提供的插件列表。
 
 ## 注意事项
 
